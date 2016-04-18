@@ -4,7 +4,11 @@ Download bing.com wallpaper or video every day and set as your desktop wallpaper
 Also, this script will download the today's bing video background to your home dir if there is any, you can check it out anytime.
 
 # Start
-You will need to hava python 3 and pywin32 installed, May you need to change the location of the downloaded resources as your will.
+You will need to have python 3 and pywin32 installed, May you need to change the location of the downloaded resources as your will:
+```
+pic_folder = "set-to-your-location"
+video_folder = "set-to-your-location"
+```
 
 # Quick install
 * Open your shell as admin
