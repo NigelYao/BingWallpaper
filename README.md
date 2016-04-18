@@ -11,8 +11,8 @@ video_folder = "set-to-your-location"
 ```
 
 # Quick install
-* Open your shell as admin
-* install Chocolatey with just one line 
+* For windows, open your command line as admin
+* install Chocolatey with just one line [check out Chocolatey.org](https://chocolatey.org)
 ```
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
 ```
