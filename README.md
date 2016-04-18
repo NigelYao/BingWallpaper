@@ -28,3 +28,6 @@ choco install pywin32
 
 # Extra
 Add this script to your startup, keep your desktop up-to-date.
+
+# Notice
+Follow bing.com's wallpaper usage, all wallpaper copyright belongs to bing.com
