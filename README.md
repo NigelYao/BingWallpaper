@@ -1,5 +1,5 @@
 # BingWallpaper
-Download bing.com wallpaper or video every day and set as your desktop wallpaper, keep your desktop refresh.
+Download bing.com wallpaper every day and set as your desktop wallpaper, keep your desktop fresh.
 
 Also, this script will download the today's bing video background to your home dir if there is any, you can check it out anytime.
 
